@@ -1,5 +1,27 @@
 {
+  "name": "zeronode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "dotenv": "^16.0.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okNeeraj/zeronode.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Neeraj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okNeeraj/zeronode/issues"
+  },
+  "homepage": "https://github.com/okNeeraj/zeronode#readme"
 }
